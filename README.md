@@ -5,14 +5,14 @@
 # CSS Water Waves Effects
 - The simple codes to create `water waves effects` using HTML & CSS.
 - A Collection of hand-picked free HTML and CSS water and waves effect code examples.
+- Easy to customize and apply to any website works with all devices and screen sizes.
 
 ### Made With
 - HTML
 - CSS
 
-### 1. SIMPLE CSS WAVES
-1. Lightweight animation between header & content. 
-2. Easy to customize and apply to any website works with all devices and screen sizes.
+### 1. TEXT WATER EFFECT 
+1. Simple code of water effect in name text.
 
 ### Output Screenshot
 <details><summary><b>Output</b></summary>
@@ -21,14 +21,13 @@
   </p>
 </details>
 
-### 1. SIMPLE CSS WAVES
-1. Lightweight animation between header & content. 
-2. Easy to customize and apply to any website works with all devices and screen sizes.
+### 2. SIMPLE CSS WAVES
+1. Lightweight animation between header & content.
 
 ### Output Screenshot
 <details><summary><b>Output</b></summary>
   <p align="center">
-    <a href="Outputs/output 1.png"><img src="https://user-images.githubusercontent.com/85709371/155489248-f74977b9-e1fc-4f02-aa4e-4e748a121aac.png" alt="output 1"></a>
+    <a href="Outputs/output 2.png"><img src="https://user-images.githubusercontent.com/85709371/155489248-f74977b9-e1fc-4f02-aa4e-4e748a121aac.png" alt="output 2"></a>
   </p>
 </details>
 
