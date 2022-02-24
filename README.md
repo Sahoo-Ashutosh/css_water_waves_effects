@@ -27,7 +27,7 @@
 ### Output Screenshot
 <details><summary><b>Output</b></summary>
   <p align="center">
-    <a href="Outputs/output 2.png"><img src="https://user-images.githubusercontent.com/85709371/155489248-f74977b9-e1fc-4f02-aa4e-4e748a121aac.png" alt="output 2"></a>
+    <a href="Outputs/output 2.png"><img src="![output 2](https://user-images.githubusercontent.com/85709371/155492533-6bb08623-8bd3-4e3a-8fd4-82497a267c38.png)" alt="output 2"></a>
   </p>
 </details>
 
