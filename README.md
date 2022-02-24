@@ -6,3 +6,6 @@
 - The simple codes to create water `waves effects` using HTML & CSS.
 - Lightweight animation between header & content. Easy to customize and apply to any website! Works with all devices and screen sizes.
 
+### Made With
+- HTML
+- CSS
