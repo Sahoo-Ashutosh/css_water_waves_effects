@@ -18,3 +18,6 @@
 </details>
 
 Visit <a href="https://vikrant-v28.github.io/loader_animation/">Here</a>
+
+## *Author Name*
+[Vikrant](https://github.com/vikrant-v28)
