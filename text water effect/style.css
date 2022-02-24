@@ -45,3 +45,13 @@
 	color: #2196f3;
 	animation: animate 4s ease-in-out infinite;
 }
+
+@keyframes animate {
+	0%,
+	100% {
+		clip-path: polygon(0% 46%, 16% 45%, 34% 52%, 50% 61%, 68% 65%, 85% 61%, 100% 53%, 100% 100%, 0% 100%);
+	}
+	50% {
+		clip-path: polygon(0% 66%, 14% 73%, 34% 76%, 50% 71%, 64% 62%, 79% 55%, 100% 51%, 100% 100%, 0% 100%);
+	}
+}
