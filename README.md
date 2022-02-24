@@ -3,7 +3,7 @@
 </div>
 
 # CSS Water Waves Effects
-- The simple codes to create water `waves effects` using HTML & CSS.
+- The simple codes to create `water waves effects` using HTML & CSS.
 - A Collection of hand-picked free HTML and CSS water and waves effect code examples.
 
 ### Made With
@@ -17,7 +17,7 @@
 ### Output Screenshot
 <details><summary><b>Output</b></summary>
   <p align="center">
-    <a href="Outputs/output.png"><img src="https://user-images.githubusercontent.com/85709371/154668390-fd318928-62e0-461a-885e-e5af526c0695.png" alt="output"></a>
+    <a href="Outputs/output 1.png"><img src="https://user-images.githubusercontent.com/85709371/154668390-fd318928-62e0-461a-885e-e5af526c0695.png" alt="output 1"></a>
   </p>
 </details>
 
