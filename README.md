@@ -33,6 +33,13 @@ Visit <a href="https://vikrant-v28.github.io/loader_animation/">Here</a>
   </p>
 </details>
 
+<p>Codepen embed:</p>
+<iframe height="300" style="width: 100%;" scrolling="no" title="Simple CSS Waves | Mobile &amp; Full width" src="https://codepen.io/vikrant-v28/embed/preview/GROBZRN?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/vikrant-v28/pen/GROBZRN">
+  Simple CSS Waves | Mobile &amp; Full width</a> by Vikrant (<a href="https://codepen.io/vikrant-v28">@vikrant-v28</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
+
 Visit <a href="https://vikrant-v28.github.io/loader_animation/">Here</a>
 
 ## *Author Name*
