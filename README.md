@@ -21,7 +21,7 @@
   </p>
 </details>
 
-Visit <a href="https://vikrant-v28.github.io/loader_animation/">Here</a>
+Visit <a href="https://vikrant-v28.github.io/css_water_waves_effects/">Here</a>
 
 ### 2. SIMPLE CSS WAVES
 1. Lightweight animation between header & content.
