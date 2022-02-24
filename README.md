@@ -21,6 +21,17 @@
   </p>
 </details>
 
+### 1. SIMPLE CSS WAVES
+1. Lightweight animation between header & content. 
+2. Easy to customize and apply to any website works with all devices and screen sizes.
+
+### Output Screenshot
+<details><summary><b>Output</b></summary>
+  <p align="center">
+    <a href="Outputs/output 1.png"><img src="https://user-images.githubusercontent.com/85709371/155489248-f74977b9-e1fc-4f02-aa4e-4e748a121aac.png" alt="output 1"></a>
+  </p>
+</details>
+
 Visit <a href="https://vikrant-v28.github.io/loader_animation/">Here</a>
 
 ## *Author Name*
