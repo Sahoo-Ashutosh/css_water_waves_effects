@@ -21,7 +21,7 @@
   </p>
 </details>
 
-Visit <a href="https://vikrant-v28.github.io/css_water_waves_effects/">Here</a>
+<!-- Visit <a href="https://vikrant-v28.github.io/css_water_waves_effects/">Here</a> -->
 
 ### 2. SIMPLE CSS WAVES
 1. Lightweight animation between header & content.
@@ -33,8 +33,8 @@ Visit <a href="https://vikrant-v28.github.io/css_water_waves_effects/">Here</a>
   </p>
 </details>
 
-Visit <a href="https://codepen.io/vikrant-v28/pen/eYejdLK">Here</a>
+Visit <a href="https://codepen.io/thevkrant/pen/eYejdLK">Here</a>
 
 ## *Author Name*
-[Vikrant](https://github.com/vikrant-v28)
+[Vikrant](https://github.com/thevkrant)
 
